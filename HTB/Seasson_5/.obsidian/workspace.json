@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "32567022200878bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d102450b05510b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da6be0e19a2576e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f8d081f53f88617",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c25b77c537a62a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f57a6e90c56668",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7cd185aca0c8fe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3eb90a49f4ba486e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "5ef67cf3662a94a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "84dc8bee1542c9d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "673cc02716283a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0a2f74b7174b277",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92b3428097f1e67b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8aa5e2199ecccac0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79f57a6e90c56668",
+  "lastOpenFiles": [
+    "4. SolarLab/recognaisse/80.md",
+    "1. Runner/Recognaisse/80/80.md",
+    "4. SolarLab/recognaisse/135 RPC.md",
+    "4. SolarLab/recognaisse/445.md",
+    "4. SolarLab/recognaisse/6791.md",
+    "4. SolarLab/recognaisse/nmap.md",
+    "4. SolarLab/commands.md",
+    "3. Mailing/Comandos.md",
+    "2. Intuitioon/Recoog/Untitled.md",
+    "1. Runner/Recognaisse/Internal/Recog/Internal Network.md",
+    "1. Runner/Recognaisse/Internal/Recog/Info.md",
+    "1. Runner/Recognaisse/80/subdomains.md",
+    "1. Runner/Recognaisse/22/Creds.md",
+    "1. Runner/Description.md",
+    "1. Runner/commands.md",
+    "3. Mailing/Recog/nmap.md",
+    "1. Runner/nmap.md",
+    "1. Runner/Recognaisse/Untitled.md",
+    "2. Intuitioon/Recoog/80/Enum.md",
+    "Pasted image 20240512204541.png",
+    "3. Mailing/Recog/Untitled/Root.md",
+    "4. SolarLab/PrivEsc",
+    "4. SolarLab/recognaisse",
+    "4. SolarLab",
+    "3. Mailing/Recog/80.md",
+    "3. Mailing/Recog/Untitled",
+    "3. Mailing/Recog",
+    "3. Mailing",
+    "2. Intuitioon/Recoog/22",
+    "2. Intuitioon/Recoog/80",
+    "2. Intuitioon/Recoog/nmap.md",
+    "2. Intuitioon/Recoog",
+    "2. Intuitioon",
+    "Software Maquinas/Portainer.md",
+    "Software Maquinas/Nagios.md",
+    "Software Maquinas/Container.md"
+  ]
+}
