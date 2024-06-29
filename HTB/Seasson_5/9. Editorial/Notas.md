@@ -1,5 +1,5 @@
 submissions@tiempoarriba.htb
-
+[git] [api]
 
 - Editorial 10.10.11.20
     
@@ -14,7 +14,7 @@ submissions@tiempoarriba.htb
             - /upload-cover
                 
                 - URL
-	                - SSRF
+	                - [SSRF]
 				            localhost:5000/api
                     
                 - file
@@ -23,7 +23,7 @@ submissions@tiempoarriba.htb
             
     - InternalEnum(user dev)
         
-        - ./apps/.git
+        - ## ./apps/.git
             
             - git log
                 
@@ -40,3 +40,4 @@ submissions@tiempoarriba.htb
                 - sudo -l
                     
                     - python injection
+	                    - https://security.snyk.io/vuln/SNYK-PYTHON-GITPYTHON-3113858
